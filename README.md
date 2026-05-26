@@ -1,5 +1,15 @@
 # SamaSama Pool
 
+
+#CONTRACT ID: 
+SAGS7EXRGKYFHOK5FGYUCIWWVAGCMS75ZK2LKH4NSNNMAZZ7T7QPFT2Q
+
+#CONTRACT LINK: 
+https://stellar.expert/explorer/testnet/tx/1d8a8b2ac69b918d5b9540fbe2bc79871a4b67b4619ded9b2eb29a0d280d8977
+
+![PICTURE](Stellar-SamaSamaPool.png)
+
+
 Trustless on-chain rotating savings and credit system (*paluwagan*) eliminating counterparty risks for community savers in the Philippines using Soroban smart contracts.
 
 ## Core Fundamentals
